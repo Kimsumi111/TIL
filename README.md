@@ -1,6 +1,7 @@
 # TIL - 오늘 내가 배운 것
 ## 2024.05
 04.30
+
 UGUI-해상도 대응
 - Canvas Render Mode
 - Canvas Scaler
