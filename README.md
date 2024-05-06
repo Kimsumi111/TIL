@@ -36,3 +36,26 @@ if는 구분을 위한 분기점이지, 담는 곳이 아님
 - 기능 구현이 우선
 - 디테일은 막바지에 해결 (폴리싱 단계에서 작업)
 
+
+05.06
+
+로컬 지정을 통한 bool 매개변수 가독성 올림
+
+private 변수 값 유니티 창에서 확인하는 법
+
+포맷팅 활용을 통한 최적화
+- ""와 $
+
+가변화
+
+단축키
+- Ctrl + R + R
+- Alt + Shift + .
+
+Count와 Length 차이 활용
+
+foreach InvalidOperationExeption 걸렸을 때 대응법
+(foreach는 동적 대응이 불가함)
+- foreach 탈출
+- break
+
