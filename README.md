@@ -1,7 +1,6 @@
 # TIL - 오늘 내가 배운 것
 ## 2024.05
 ### 04.30
-
 UGUI-해상도 대응
 - Canvas Render Mode
 - Canvas Scaler
@@ -20,7 +19,6 @@ UGUI-인벤토리
 
 
 ### 05.03
-
 Sprite Editor를 이용한 이미지 망가짐 없이 scale 늘리기
 - Draw Mode
 - 초록선 이동
@@ -38,7 +36,6 @@ if는 구분을 위한 분기점이지, 담는 곳이 아님
 
 
 ### 05.06
-
 로컬 지정을 통한 bool 매개변수 가독성 올림
 
 private 변수 값 유니티 창에서 확인하는 법
@@ -59,3 +56,14 @@ foreach InvalidOperationExeption 걸렸을 때 대응법
 - foreach 탈출
 - break
 
+
+### 05.07
+확장함수
+counst
+폴리싱
+SceneManager
+빌드하는 법
+미니 프로젝트 하나 완료
+
+백준 깃허브에 연동하는 법
+백준 1008, 2588
