@@ -71,6 +71,7 @@ SceneManager
 미니 프로젝트 하나 완료
 
 백준 깃허브에 연동하는 법
+
 백준 1008, 2588
 
 
@@ -82,6 +83,6 @@ SceneManager
 리스트에 담고, UI에서 Destroy 후에 RemoveAt
 
 랜덤 인스턴스 생성
-
-
+<br>
+<br>
 조금 더 고민해가며 공부하자
