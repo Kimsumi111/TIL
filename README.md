@@ -59,10 +59,15 @@ foreach InvalidOperationExeption 걸렸을 때 대응법
 
 ## 05.07
 확장함수
+
 counst
+
 폴리싱
+
 SceneManager
+
 빌드하는 법
+
 미니 프로젝트 하나 완료
 
 백준 깃허브에 연동하는 법
@@ -71,8 +76,12 @@ SceneManager
 
 ## 05.08
 매니저 스크립트와 다른 스크립트 접근의 차이
+
 ? :
+
 리스트에 담고, UI에서 Destroy 후에 RemoveAt
+
 랜덤 인스턴스 생성
+
 
 조금 더 고민해가며 공부하자
