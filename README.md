@@ -89,7 +89,7 @@ SceneManager
 <br>
 <br>
 ## 05.13  
-#### C++ 기초  
+### C++ 기초  
 구성요소
 - 오류
 - 전처리기 (#include)
