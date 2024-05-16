@@ -101,8 +101,8 @@ SceneManager
 변수와 상수
 - bit, byte, Hex
 - 메모리(RAM)
-<br>
-<br>
+
+
 ## 05.16  
 ### C++ 기초 
 Variable
@@ -110,17 +110,18 @@ Variable
 - 정의
 - 초기화
 - 사용
-<br>
+
 Primitive Data Types
 - Integer 등
-<br>
+
 Constant
+
 #### Basic Syntax & Debugging  
 Array  
 Statement  
 Operator  
 제어문  
-<br>
+
 ### 백준  
 - 10172
 - 9498
