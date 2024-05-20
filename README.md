@@ -129,3 +129,25 @@ Operator
 - 14681
 - 2884
 
+## 05.20  
+### C++ 기초 
+Function Call Stack
+- Local/Global Scope
+- Function Call
+- Stack Memory
+
+Passing Arrays to Function
+Pass by Reference
+
+inline, reculsive
+
+#### Pointer & Reference  
+Pointers
+- 정의
+- 변수의 주소값 얻어오기
+- 주소값 이해
+
+Accessing Pointer Address
+- 포인터 타입
+- 역참조
+  
