@@ -153,7 +153,7 @@ Accessing Pointer Address
   
 ## 05.29  
 ### 부트캠프 시작
-[별찍기 코드 작성] (https://snack-game.tistory.com/8)
+[별찍기 코드 작성](https://snack-game.tistory.com/8)
 - 왼쪽, 오른쪽 정렬 삼각형
 - 역삼각형
 - 피라미드, 역피라미드
