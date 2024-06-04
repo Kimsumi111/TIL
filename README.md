@@ -168,7 +168,7 @@ Accessing Pointer Address
 ## 2024.06 
 ## 06.04  
 ### 부트캠프 5일차
-[TIL 블로그] (https://snack-game.tistory.com/10)
+[TIL 블로그](https://snack-game.tistory.com/10)
 파일 경로
 - 파일 읽기
 - 파일 쓰기
