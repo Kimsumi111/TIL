@@ -163,5 +163,23 @@ Accessing Pointer Address
 (누적 계산은 알고리즘 지식 부족으로 인해 구현하지 못함)
 
 피보나치 수열 코드 작성
+  
+ 
+## 06.04  
+### 부트캠프 5일차
+[TIL 블로그] (https://snack-game.tistory.com/10)
+파일 경로
+- 파일 읽기
+- 파일 쓰기
+- 파일 추가 쓰기
 
+++변수와 변수++의 차이
 
+LINQ
+
+Collection
+- Array
+- List
+- Dictionary
+
+보석 먹기 게임 구현
